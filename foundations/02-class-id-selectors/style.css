@@ -1,0 +1,19 @@
+.paragraph{
+    background-color: #f8afd3;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.ptwo{
+    font-size: 24px;
+}
+
+#div-one{
+    color: #00c3ff;
+    font-size: 36px;
+}
+
+#div-two{
+    background-color: #79ff84;
+    font-size: 24px;
+    font-weight: bold;
+}
